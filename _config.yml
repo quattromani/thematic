@@ -1,0 +1,12 @@
+# Site settings
+title: Thematic
+email: q@thematic.io
+description: ""
+baseurl: ""
+url: "http://thematic.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+pygments: true
